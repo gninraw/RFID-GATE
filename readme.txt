@@ -6,3 +6,6 @@ file://172.18.124.80/rfid-gate/Config.zip
 
 게이트 파일
 file://172.18.124.80/rfid-gate/GATE-1.0.3.0.zip
+
+프리테스트 파일
+file://172.18.124.80/rfid-gate/GATE-V5-pre.zip
